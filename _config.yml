@@ -21,11 +21,11 @@
 title: Yakir's blog
 email: yakirwin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about things I like and just things I want to write about.\
+  A blog about things I like and things I want to write about.
   Programming, engineering, motorcycles, people, fitness, running, friends, family, games, love, computers, TV series,
   money and freedom.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yakir.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  yakirwin
 
